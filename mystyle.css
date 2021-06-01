@@ -34,15 +34,15 @@ ul {
 }
 
 h3 {
-  color: #f8a6dd;
+  color: #da98cf;
   margin: 10px 0;
-  text-transform: upperrcase;
+  text-transform: lowercase;
   font-size: 1.25em;
 }
 
 .resume {
   width: 960px;
-  background: #f8a6dd;
+  background: #1a237e;
   color: #ffffff;
   margin: 20px auto;
   box-shadow: 10px 10px #0e1442;
@@ -69,7 +69,7 @@ h3 {
 .resume .base {
   width: 30%;
   padding: 30px 15px;
-  background: #ffb300;
+  background: #283593;
   color: #ffffff;
 }
 
@@ -104,7 +104,7 @@ h3 {
   align-items: center;
 }
 
-.resume .base .profile .fa-rocket {
+.resume .base .profile .fa-sun {
   font-size: 100px;
   text-align: center;
   margin: auto;
@@ -120,7 +120,7 @@ h3 {
   margin-top: 10px;
   margin-bottom: 0;
   font-size: 1.75em;
-  text-transform: lowercase;
+  text-transform: uppercase;
   color: #1a237e;
 }
 
